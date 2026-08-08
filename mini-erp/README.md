@@ -112,6 +112,3 @@ module from Sections A-E). From here, natural next steps are the
 "suggested enhancements" from the design doc — audit trail, payment
 reminders for overdue credit, dashboard charts, data export, or barcode
 support — whichever would help your shop most. Just let me know.
-
-start 5-8
-GIT_AUTHOR_DATE="2026-07-12 10:00:00" GIT_COMMITTER_DATE="2026-07-12 11:00:00" git commit -m "Introduction about the system and instruction to use (Clone)"
